@@ -1,1 +1,1 @@
-# Expense-Tracker-JS
+# expense-tracker-js
