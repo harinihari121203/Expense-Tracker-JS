@@ -17,6 +17,9 @@ Display a summary of total income and expenses
 Calculate the remaining balance
 Delete specific entries
 
+# Demo Link 
+I deployed my app in vercel 👉🏻 https://expense-tracker-js-nine.vercel.app/ 
+
 # Technical Stack
 HTML: Provides the structure of the web page.
 CSS: Styles the user interface for a better user experience.
