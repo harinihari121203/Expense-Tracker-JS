@@ -22,7 +22,9 @@ I deployed my app in vercel 👉🏻 https://expense-tracker-js-nine.vercel.app/
 
 # Technical Stack
 HTML: Provides the structure of the web page.
+
 CSS: Styles the user interface for a better user experience.
+
 JavaScript: Handles user interactions, data manipulation, and dynamic updates.
 
 # Usage
